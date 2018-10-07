@@ -66,9 +66,9 @@ _____
 ```
 
 #### Install
-1 `npm install`
-2 open file on dir `user/config.json` and `utils/account.json` replace `username` and `password` , and replace adminid on `user/config.json` to Your profileid Admin 
-3 open file on dir `utils/main.js` and replace line `541` and `543` to profile id your bot
+1. `npm install`
+2. open file on dir `user/config.json` and `utils/account.json` replace `username` and `password` , and replace adminid on `user/config.json` to Your profileid Admin 
+3. open file on dir `utils/main.js` and replace line `541` and `543` to profile id your bot
 
 
 ###### 2018 Iqbal Rifai, MIT License
